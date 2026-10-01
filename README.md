@@ -1,7 +1,7 @@
 __ANDERS HOLDEN DELEURAN__<br>
 Design Geometer + Coder | Full Stack AI Hater<br>
-Senior Computational Design Specialist | [BIG](https://big.dk/)<br>
-Overdue PhD Fellow | [CITA](https://royaldanishacademy.com/en/CITA)<br>
+Senior Computational Design Specialist | <a href="https://big.dk/" style="color: LightSlateGrey;">BIG</a><br>
+Overdue PhD Fellow | <a href="https://royaldanishacademy.com/en/CITA" style="color: LightSlateGrey;">CITA</a><br>
 
 Contact:<br>
 andersdeleuran[at]outlook.com
