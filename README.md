@@ -22,4 +22,4 @@ Download:<br>
 ![TODO (BIG)](https://global.discourse-cdn.com/mcneel/uploads/default/original/3X/e/f/ef116a319406292428c20a79364c9800a74d498d.png)
 
 Connect:<br>
-<a href="https://github.com/AndersDeleuran" style="color: LightGray;">GitHub</a>
+<a href="https://github.com/AndersDeleuran" style="color: LightSlateGrey;">GitHub</a>
