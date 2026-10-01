@@ -17,3 +17,5 @@ Download:<br>
 [GhPython Course (2021)](https://www.dropbox.com/scl/fi/bjqkaemgevhrnz8u1x3sc/211103_Grasshopper103_CPH_Redacted.pdf?rlkey=udzmq3f3z010zegonyfviref9&dl=0)<br>
 [CV + Worksamples (2015)]()<br>
 [Portfolio (2013)]()<br>
+
+![Huguet Tiles (BIG)]([image-url](https://media.licdn.com/dms/image/v2/D4E16AQHIqu7EAQHhKw/profile-displaybackgroundimage-shrink_350_1400/B4EaCw5iO8IgAU-/0/1789674268115?e=1792627200&v=beta&t=-Z1tMPoVB-DgsyqTHnAWWPTxgYhXox0_yF60WSMX1iw))
