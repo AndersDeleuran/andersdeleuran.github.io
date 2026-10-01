@@ -1,4 +1,4 @@
-__Anders Holden Deleuran__<br>
+__ANDERS HOLDEN DELEURAN__<br>
 Design Geometer + Coder | Full Stack AI Hater<br>
 Senior Computational Design Specialist | [BIG](https://big.dk/)<br>
 Overdue PhD Fellow | [CITA](https://royaldanishacademy.com/en/CITA)<br>
