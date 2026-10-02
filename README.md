@@ -24,7 +24,6 @@ Download:<br>
 ![Huguet](images/Huguet_00.png "Huguet (BIG 2024-2025)")
 ![EDUES](images/EDUES_00.png "EDUES (BIG 2021)")
 ![ORØ](images/ORØ_00.png "ORØ (BIG 2019-2020)")
-![SLPK](images/SLPK_00.png "ORØ (BIG 2020)")
+![SLPK](images/SLPK_00.png "SLPK (BIG 2020)")
 ![10C3](images/10C3_00.png "10C3 (BIG 2022)")
 ![DELA](images/DELA_00.png "DELA (BIG 2019)")
-
