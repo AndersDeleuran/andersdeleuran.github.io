@@ -1,5 +1,5 @@
 __ANDERS HOLDEN DELEURAN__<br>
-Design Geometer + Coder | Full Stack [AI Hater](https://www.linkedin.com/feed/update/urn:li:activity:7457701774867517440/)<br>
+Design Geometer + Coder | Full Stack AI [Hater](https://www.linkedin.com/feed/update/urn:li:activity:7457701774867517440/)<br>
 Senior Computational Design Specialist | [BIG](https://big.dk/)<br>
 Long Overdue PhD Fellow | [CITA](https://royaldanishacademy.com/en/CITA)<br>
 
@@ -25,7 +25,7 @@ Download:<br>
 ![LCS](images/LCS_00.png "LCS (BIG 2022-2026)")
 ![EDUES](images/EDUES_00.png "EDUES (BIG 2021)")
 ![ORØ](images/ORØ_00.png "ORØ (BIG 2019-2020)")
-![DRWN](images/DRWN_00.png "SLPK (DRWN 2019)")
+![DRWN](images/DRWN_00.png "DRWN (BIG 2019)")
 ![SLPK](images/SLPK_00.png "SLPK (BIG 2020)")
 ![10C3](images/10C3_00.png "10C3 (BIG 2022)")
 ![DYMK](images/DYMK_00.png "DYMK (BIG 2021-2022)")
