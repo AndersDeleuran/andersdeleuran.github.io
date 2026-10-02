@@ -5,20 +5,17 @@
 
 // 2. Override specific link components using standard CSS variables
 :root {
-  --color-accent-fg: #ff5733;       /* Changes default link and accent color */
-  --color-fg-accent: #ff5733;       /* Fallback variable for modern Primer */
+  --color-accent-fg: #767676;       /* Changes default link and accent color */
+  --color-fg-accent: #767676;       /* Fallback variable for modern Primer */
 }
 
 // 3. Optional: Explicit anchor tag targeting to enforce it
 a {
-  color: #ff5733 !important;        /* Replace with your preferred hex color */
+  color: #767676 !important;        /* Replace with your preferred hex color */
   
   &:hover {
-    color: #cc4425 !important;      /* Color when a user hovers over the link */
+    color: #bdbcbc !important;      /* Color when a user hovers over the link */
     text-decoration: underline;
   }
   
-  &:visited {
-    color: #99331e !important;      /* Color after a user clicks the link */
-  }
 }
