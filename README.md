@@ -22,6 +22,7 @@ Download:<br>
 ![VLF](images/VLF_00.png "VLF (BIG 2026)")
 ![ALV](images/ALV_01.png "ALV (BIG 2024-2026)")
 ![Huguet](images/Huguet_00.png "Huguet (BIG 2024-2025)")
+![DYMK](images/DYMK_01.png "DYMK (BIG 2021-2022)")
 ![EDUES](images/EDUES_00.png "EDUES (BIG 2021)")
 ![ORØ](images/ORØ_00.png "ORØ (BIG 2019-2020)")
 ![SLPK](images/SLPK_00.png "SLPK (BIG 2020)")
