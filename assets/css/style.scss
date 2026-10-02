@@ -1,15 +1,15 @@
 ---
 ---
-// 1. Import the default Primer theme first
+// Import default Primer theme (see: https://github.com/pages-themes/primer)
 @import "{{ site.theme }}";
 
-// 2. Override specific link components using standard CSS variables
+// Override link components using standard CSS variables
 :root {
   --color-accent-fg: LightSlateGrey;
   --color-fg-accent: LightSlateGrey;
 }
 
-// 3. Optional: Explicit anchor tag targeting to enforce it
+// Optional: Explicit anchor tag targeting to enforce it
 a {
   color: LightSlateGrey !important;
   
@@ -17,10 +17,6 @@ a {
     text-decoration: underline;
   }
 
-.markdown-body {
-  font-family: 'Times New Roman', Times, serif;
-}
-  
 }
 
 
