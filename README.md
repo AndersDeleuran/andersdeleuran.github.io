@@ -22,4 +22,8 @@ Download:<br>
 ![VLF](images/VLF_00.png "VLF (BIG 2026)")
 ![ALV](images/ALV_00.png "ALV (BIG 2024-2026)")
 ![Huguet](images/Huguet_00.png "Huguet (BIG 2024-2025)")
-![Al Maryah](images/AlMaryah_01.png "Al Maryah (BIG 2025)")
+![EDUES](images/EDUES_00.png "EDUES (BIG 2021)")
+![ORØ](images/ORØ_00.png "ORØ (BIG 2019-2020)")
+![SLPK](images/SLPK_00.png "ORØ (BIG 2020)")
+![DELA](images/DELA_00.png "DELA (BIG 2019)")
+
