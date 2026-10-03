@@ -34,4 +34,4 @@ Download:<br>
 ![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")
 ![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")
 ![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")
-<sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull`</sup>
+<sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull` `SpatialSlur`</sup>
