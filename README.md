@@ -27,6 +27,6 @@ Download:<br>
 ![ORØ](images/ORØ_00.png "ORØ (BIG 2019-2020)")
 ![DYMK](images/DYMK_00.png "DYMK (BIG 2021-2022)")
 ![SLPK](images/SLPK_00.png "SLPK (BIG 2020)")
-![DRWN](images/DRWN_00.png "DRWN (BIG 2019)")
 ![10C3](images/10C3_00.png "10C3 (BIG 2022)")
+![DRWN](images/DRWN_00.png "DRWN (BIG 2019)")
 ![DELA](images/DELA_00.png "DELA (BIG 2019)")
