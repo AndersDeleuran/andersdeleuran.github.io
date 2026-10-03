@@ -30,3 +30,5 @@ Download:<br>
 ![10C3](images/10C3_00.png "10C3 (BIG 2022)")
 ![DRWN](images/DRWN_00.png "DRWN (BIG 2019)")
 ![DELA](images/DELA_00.png "DELA (BIG 2019)")
+
+<sup>All works encoded using 100% good old fashioned human brain neurons in `GhPython` implementing `RhinoCommon`+`KangarooSolver`+`Grasshopper`+`Rhino.Inside.Revit`</sup>
