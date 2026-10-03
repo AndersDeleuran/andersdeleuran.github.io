@@ -31,4 +31,4 @@ Download:<br>
 ![DRWN](images/DRWN_00.png "DRWN (BIG 2019)")
 ![DELA](images/DELA_00.png "DELA (BIG 2019)")
 
-<sup>Encoded using good old human brain neurons in `GhPython` `RhinoCommon` `Kangaroo` `Rhino.Inside`</sup>
+<sup>Encoded using good old human brain neurons in `GhPython` `RhinoCommon` `KangarooSolver` `Rhino.Inside`</sup>
