@@ -30,4 +30,3 @@ Download:<br>
 ![DYMK](images/DYMK_00.png "DYMK (BIG 2021-2022)")
 ![10C3](images/10C3_00.png "10C3 (BIG 2022)")
 ![DELA](images/DELA_00.png "DELA (BIG 2019)")
-![AlMaryah](images/AlMaryah_00.png "Al Maryah (BIG 2025)")
