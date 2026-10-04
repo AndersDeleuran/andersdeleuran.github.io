@@ -18,6 +18,7 @@ Download:\
 [`CV + Work Samples (2015)`](https://www.dropbox.com/scl/fi/pnl6ii8gmk86ikwnzz7i2/151112_AndersHoldenDeleuran_ShortCV_Worksamples.pdf?rlkey=ct5ofdkevmj4s0gr1n9z2ytlf&st=gt3646ja&dl=0)\
 [`Portfolio (2013)`](https://www.dropbox.com/scl/fi/btv8spodbgmdp6r9lgc36/130527_ComplexModelling_AHD_Portfolio.pdf?rlkey=n03rj8s5gahua6v5wnsy4yxrv&st=tj6lnk55&dl=0)
 
+Selected Work:\
 [![VTCIII](images/VTCIII_00.png "VTCIII (BIG 2020-2026)")](https://big.dk/projects/vasteras-travel-center-4170)
 [![VLF](images/VLF_00.png "VLF (BIG 2026)")](https://big.dk/projects/vltava-philharmonic-prague-4340)
 [![ALV](images/ALV_00.png "ALV (BIG 2024-2026)")](https://big.dk/projects/athletics-las-vegas-ballpark-16435)
