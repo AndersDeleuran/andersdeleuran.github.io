@@ -4,7 +4,7 @@ Senior Computational Design Specialist | [`BIG`](https://big.dk/)\
 Long Overdue PhD Fellow | [`CITA`](https://royaldanishacademy.com/en/CITA)
 
 Contact:\
-andersdeleuran[at]outlook.com
+`andersdeleuran[at]outlook.com`
 
 Connect:\
 [`GitHub`](https://github.com/AndersDeleuran)\
@@ -13,10 +13,10 @@ Connect:\
 [`LinkedIn`](https://www.linkedin.com/in/andersholdendeleuran)
 
 Download:\
-[AECTech Course (2024)](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)\
-[GhPython Course (2021)](https://www.dropbox.com/scl/fi/bjqkaemgevhrnz8u1x3sc/211103_Grasshopper103_CPH_Redacted.pdf?rlkey=udzmq3f3z010zegonyfviref9&dl=0)\
-[CV + Work Samples (2015)](https://www.dropbox.com/scl/fi/pnl6ii8gmk86ikwnzz7i2/151112_AndersHoldenDeleuran_ShortCV_Worksamples.pdf?rlkey=ct5ofdkevmj4s0gr1n9z2ytlf&st=gt3646ja&dl=0)\
-[Portfolio (2013)](https://www.dropbox.com/scl/fi/btv8spodbgmdp6r9lgc36/130527_ComplexModelling_AHD_Portfolio.pdf?rlkey=n03rj8s5gahua6v5wnsy4yxrv&st=tj6lnk55&dl=0)
+[`AECTech Course (2024)`](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)\
+[`GhPython Course (2021)`](https://www.dropbox.com/scl/fi/bjqkaemgevhrnz8u1x3sc/211103_Grasshopper103_CPH_Redacted.pdf?rlkey=udzmq3f3z010zegonyfviref9&dl=0)\
+[`CV + Work Samples (2015)`](https://www.dropbox.com/scl/fi/pnl6ii8gmk86ikwnzz7i2/151112_AndersHoldenDeleuran_ShortCV_Worksamples.pdf?rlkey=ct5ofdkevmj4s0gr1n9z2ytlf&st=gt3646ja&dl=0)\
+[`Portfolio (2013)`](https://www.dropbox.com/scl/fi/btv8spodbgmdp6r9lgc36/130527_ComplexModelling_AHD_Portfolio.pdf?rlkey=n03rj8s5gahua6v5wnsy4yxrv&st=tj6lnk55&dl=0)
 
 [![VTCIII](images/VTCIII_00.png "VTCIII (BIG 2020-2026)")](https://big.dk/projects/vasteras-travel-center-4170)
 [![VLF](images/VLF_00.png "VLF (BIG 2026)")](https://big.dk/projects/vltava-philharmonic-prague-4340)
