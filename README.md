@@ -4,7 +4,7 @@ Senior Computational Design Specialist | [`BIG`](https://big.dk/)\
 Long Overdue PhD Fellow | [`CITA`](https://royaldanishacademy.com/en/CITA)
 
 Contact:\
-`andersdeleuran[at]outlook.com`
+andersdeleuran[at]outlook.com
 
 Connect:\
 [`GitHub`](https://github.com/AndersDeleuran)\
