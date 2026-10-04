@@ -31,7 +31,7 @@ Selected Work:\
 ![10C3](images/10C3_00.png "10C3 (BIG 2022)")
 ![DRWN](images/DRWN_00.png "DRWN (BIG 2019)")
 ![SLPK](images/SLPK_00.png "SLPK (BIG 2020)")
-![DELA](images/DELA_00.png "DELA (BIG 2019)")
+[![DELA](images/DELA_00.png "DELA (BIG 2019)")](https://www.instagram.com/p/BteJKl9hw6w/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)
 [![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")](https://royaldanishacademy.com/en/case/lace-wall)
 [![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")](https://royaldanishacademy.com/en/case/hybrid-tower)
 ![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")
