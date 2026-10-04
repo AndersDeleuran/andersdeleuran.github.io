@@ -21,7 +21,7 @@ Download:\
 [![VTCIII](images/VTCIII_00.png "VTCIII (BIG 2020-2026)")](https://big.dk/projects/vasteras-travel-center-4170)
 [![VLF](images/VLF_00.png "VLF (BIG 2026)")](https://big.dk/projects/vltava-philharmonic-prague-4340)
 [![ALV](images/ALV_00.png "ALV (BIG 2024-2026)")](https://big.dk/projects/athletics-las-vegas-ballpark-16435)
-[![Huguet](images/Huguet_00.png "Huguet (BIG 2024-2025)")](https://huguetmallorca.com/en/proyectos/sergison-bates-copy-copy-copy/)
+[![Huguet](images/Huguet_00.png "Huguet (BIG 2024-2025)")](https://big.dk/projects/3daysofdesign-materialism-21964)
 [![LCS](images/LCS_00.png "LCS (BIG 2022-2026)")](https://big.dk/projects/canninghill-piers-15842)
 [![EDUES](images/EDUES_00.png "EDUES (BIG 2021)")](https://big.dk/projects/education-esbjerg-12538)
 [![FLM](images/FLM_00.png "FLM (BIG 2019)")](https://big.dk/projects/denmarks-refugee-museum-4593)
