@@ -5,13 +5,13 @@
 
 // Override link components using standard CSS variables
 :root {
-  --color-accent-fg: DimGray;
-  --color-fg-accent: DimGray;
+  --color-accent-fg: Gray;
+  --color-fg-accent: Gray;
 }
 
 // Optional: Explicit anchor tag targeting to enforce it
 a {
-  color: DimGray !important;
+  color: Gray !important;
   
   &:hover {
     text-decoration: underline;
