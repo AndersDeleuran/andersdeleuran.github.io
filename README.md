@@ -18,7 +18,7 @@ Download:<br>
 [CV + Work Samples (2015)](https://www.dropbox.com/scl/fi/pnl6ii8gmk86ikwnzz7i2/151112_AndersHoldenDeleuran_ShortCV_Worksamples.pdf?rlkey=ct5ofdkevmj4s0gr1n9z2ytlf&st=gt3646ja&dl=0)<br>
 [Portfolio (2013)](https://www.dropbox.com/scl/fi/btv8spodbgmdp6r9lgc36/130527_ComplexModelling_AHD_Portfolio.pdf?rlkey=n03rj8s5gahua6v5wnsy4yxrv&st=tj6lnk55&dl=0)<br>
 
-![VTCIII](images/VTCIII_00.png "VTCIII (BIG 2020-2026)")
+[![VTCIII](images/VTCIII_00.png "VTCIII (BIG 2020-2026)")](https://big.dk/projects/vasteras-travel-center-4170)
 ![VLF](images/VLF_00.png "VLF (BIG 2026)")
 [![ALV](images/ALV_00.png "ALV (BIG 2024-2026)")](https://big.dk/projects/athletics-las-vegas-ballpark-16435)
 ![Huguet](images/Huguet_00.png "Huguet (BIG 2024-2025)")
@@ -35,5 +35,3 @@ Download:<br>
 ![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")
 ![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")
 <sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull` `SpatialSlur`</sup>
-
-[![Alt text](image-url)](target-url)
