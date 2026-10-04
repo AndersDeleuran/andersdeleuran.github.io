@@ -1,16 +1,16 @@
 __ANDERS HOLDEN DELEURAN__\
 Design Geometer + Coder | Full Stack AI Hater\
-Senior Computational Design Specialist | [BIG](https://big.dk/)\
-Long Overdue PhD Fellow | [CITA](https://royaldanishacademy.com/en/CITA)
+Senior Computational Design Specialist | [`BIG`](https://big.dk/)\
+Long Overdue PhD Fellow | [`CITA`](https://royaldanishacademy.com/en/CITA)
 
 Contact:\
 andersdeleuran[at]outlook.com
 
 Connect:\
-[GitHub](https://github.com/AndersDeleuran)\
-[Discourse](https://discourse.mcneel.com/u/andersdeleuran/summary)\
-[Instagram](https://www.instagram.com/andersholdendeleuran)\
-[LinkedIn](https://www.linkedin.com/in/andersholdendeleuran)
+[`GitHub`](https://github.com/AndersDeleuran)\
+[`Discourse`](https://discourse.mcneel.com/u/andersdeleuran/summary)\
+[`Instagram`](https://www.instagram.com/andersholdendeleuran)\
+[`LinkedIn`](https://www.linkedin.com/in/andersholdendeleuran)
 
 Download:\
 [AECTech Course (2024)](https://www.dropbox.com/scl/fi/r44su9z6tnutyyppkz9z9/240418_AECTech2024.pdf?rlkey=3dl5qx1jq3q2yel4sof4oi1ic&dl=0)\
