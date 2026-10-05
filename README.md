@@ -34,5 +34,5 @@ Selected Work:\
 ![SLPK](images/SLPK_00.png "SLPK (BIG 2020)")
 [![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")](https://royaldanishacademy.com/en/case/lace-wall)
 [![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")](https://royaldanishacademy.com/en/case/hybrid-tower)
-![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")
+[![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
 <sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull` `SpatialSlur`</sup>
