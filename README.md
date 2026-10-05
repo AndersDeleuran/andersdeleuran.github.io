@@ -28,6 +28,7 @@ Selected Work:\
 [![DYMK](images/DYMK_00.png "DYMK (BIG 2021-2022)")](https://big.dk/projects/dymak-hq-16408)
 [![ORØ](images/ORØ_00.png "ORØ (BIG 2019-2020)")](https://www.instagram.com/p/CFb7q07g8TD/)
 [![FLM](images/FLM_00.png "FLM (BIG 2019)")](https://big.dk/projects/denmarks-refugee-museum-4593)
+[![OPPOH](images/OPPOH_00.png "OPPOH (BIG 2020)")](https://big.dk/projects/oppo-rd-hq-hangzhou-3927)
 [![DELA](images/DELA_00.png "DELA (BIG 2019)")](https://www.instagram.com/p/BteJKl9hw6w/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)
 ![10C3](images/10C3_00.png "10C3 (BIG 2022)")
 ![DRWN](images/DRWN_00.png "DRWN (BIG 2019)")
