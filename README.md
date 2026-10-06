@@ -56,4 +56,4 @@ Publications:\
 [`A New Material Practice ‐ Integrating Design and Material Behavior (2012)`]()\
 [`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)`]()\
 [`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`]()\
-[`Topological Infrastructure Analysis of the Built Environment (2011)`]()
+[`Topological Infrastructure Analysis of the Built Environment (2011)`](https://www.dropbox.com/scl/fi/3wz95ao46jasb27ibeljz/Deleuran-Derix_2013_Topological-Infrastructure-Analysis-of-the-Built-Environment.pdf?rlkey=xngfmee8mb85my1yugfhhymoe&st=otqp7svv&dl=0)
