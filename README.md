@@ -44,10 +44,10 @@ Selected Publications:\
 [`Lace Wall - Extending design intuition through Machine Learning (2017)`]()\
 [`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`]()\
 [`Bespoke Materials For Bespoke Textile Architecture (2016)`]()\
-`Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`\
-`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`\
-`The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`\
-`Hybrid Tower - Designing Soft Structures (2015)`\
-`ShapeOp - A Robust and Extensible Geometric Modelling Paradigm (2015)`\
-`Designing CNC Knit for Hybrid Membrane and Bending Active Structures (2015)`\
-`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`
+[`Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`]()\
+[`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`]()\
+[`The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`]()\
+[`Hybrid Tower - Designing Soft Structures (2015)`]()\
+[`ShapeOp - A Robust and Extensible Geometric Modelling Paradigm (2015)`]()\
+[`Designing CNC Knit for Hybrid Membrane and Bending Active Structures (2015)`]()\
+[`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`]()
