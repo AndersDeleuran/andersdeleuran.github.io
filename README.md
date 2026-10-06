@@ -42,8 +42,8 @@ Selected Work:\
 Selected Publications:\
 [`Simulation in Complex Modelling (2017)`]()\
 [`Lace Wall - Extending design intuition through Machine Learning (2017)`]()\
-`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`\
-`Bespoke Materials For Bespoke Textile Architecture (2016)`\
+[`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`]()\
+[`Bespoke Materials For Bespoke Textile Architecture (2016)`]()\
 `Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`\
 `Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`\
 `The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`\
