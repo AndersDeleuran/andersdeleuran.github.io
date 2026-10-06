@@ -55,5 +55,5 @@ Publications:\
 [`Structural Analysis and Optimisation of a Computationally Designed Plywood Gridshell (2013)`]()\
 [`A New Material Practice ‐ Integrating Design and Material Behavior (2012)`]()\
 [`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)`]()\
-[`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`]()
+[`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`]()\
 [`Topological Infrastructure Analysis of the Built Environment (2011)`]()\
