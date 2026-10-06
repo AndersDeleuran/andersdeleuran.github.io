@@ -40,10 +40,10 @@ Selected Work:\
 <sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull` `SpatialSlur`</sup>
 
 Selected Publications:\
-[`Simulation in Complex Modelling (2017)`]()\
-[`Lace Wall - Extending design intuition through Machine Learning (2017)`]()\
-[`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`]()\
-[`Bespoke Materials For Bespoke Textile Architecture (2016)`]()\
+[`Simulation in Complex Modelling (2017)`](https://www.dropbox.com/scl/fi/63o5p01i5snuehnhmsima/Thomsen-et-al._2017_Simulation-in-Complex-Modelling.pdf?rlkey=bm8s7ri81qnbbgp67bqroz1kq&st=k3bd8rt5&dl=0)\
+[`Lace Wall - Extending design intuition through Machine Learning (2017)`](https://www.dropbox.com/scl/fi/9f0nb786tsgjwf5mo4lnv/Tamke-et-al._2017_Lace-Wall-Extending-design-intuition-through-Machine-Learning.pdf?rlkey=y96j5hv2a96vxzavno9lt2rur&st=2di3q1d1&dl=0)\
+[`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`](https://www.dropbox.com/scl/fi/uldnezzb3u0dkvnkvumjj/Quinn-et-al._2016_Calibrated-and-Interactive-Modelling-of-Form-Active-Hybrid-Structures.pdf?rlkey=bcnojc37slxuap7k1e3gisoba&st=qywglah7&dl=0)\
+[`Bespoke Materials For Bespoke Textile Architecture (2016)`](https://www.dropbox.com/scl/fi/7fsoky7xv900ofz977dxc/Tamke-et-al._2016_Bespoke-Materials-For-Bespoke-Textile-Architecture.pdf?rlkey=hlwddhkmsi9jmiocvr00xg35k&st=zfq8f9xj&dl=0)\
 [`Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`]()\
 [`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`]()\
 [`The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`]()\
