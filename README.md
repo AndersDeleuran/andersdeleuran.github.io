@@ -51,7 +51,7 @@ Publications:\
 [`Hybrid Tower - Designing Soft Structures (2015)`]()\
 [`ShapeOp - A Robust and Extensible Geometric Modelling Paradigm (2015)`]()\
 [`Designing CNC Knit for Hybrid Membrane and Bending Active Structures (2015)`]()\
-[`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`]()
+[`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`]()\
 [`Structural Analysis and Optimisation of a Computationally Designed Plywood Gridshell (2013)`]()\
 [`A New Material Practice ‐ Integrating Design and Material Behavior (2012)`]()\
 [`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)`]()\
