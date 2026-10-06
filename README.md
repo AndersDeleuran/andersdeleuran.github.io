@@ -40,8 +40,8 @@ Selected Work:\
 <sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull` `SpatialSlur`</sup>
 
 Selected Publications:\
-`Simulation in Complex Modelling (2017)`\
-`Lace Wall - Extending design intuition through Machine Learning (2017)`\
+[`Simulation in Complex Modelling (2017)`]()\
+[`Lace Wall - Extending design intuition through Machine Learning (2017)`]()\
 `Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`\
 `Bespoke Materials For Bespoke Textile Architecture (2016)`\
 `Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`\
