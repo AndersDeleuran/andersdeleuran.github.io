@@ -39,21 +39,21 @@ Selected Work:\
 [![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
 <sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull` `SpatialSlur`</sup>
 
-Publications:\
-[`Elephetus - Rethinking Patterns (2019)`]()\
-[`Simulation in Complex Modelling (2017)`](https://www.dropbox.com/scl/fi/63o5p01i5snuehnhmsima/Thomsen-et-al._2017_Simulation-in-Complex-Modelling.pdf?rlkey=bm8s7ri81qnbbgp67bqroz1kq&st=k3bd8rt5&dl=0)\
-[`Lace Wall - Extending design intuition through Machine Learning (2017)`](https://www.dropbox.com/scl/fi/9f0nb786tsgjwf5mo4lnv/Tamke-et-al._2017_Lace-Wall-Extending-design-intuition-through-Machine-Learning.pdf?rlkey=y96j5hv2a96vxzavno9lt2rur&st=2di3q1d1&dl=0)\
-[`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`](https://www.dropbox.com/scl/fi/uldnezzb3u0dkvnkvumjj/Quinn-et-al._2016_Calibrated-and-Interactive-Modelling-of-Form-Active-Hybrid-Structures.pdf?rlkey=bcnojc37slxuap7k1e3gisoba&st=qywglah7&dl=0)\
-[`Bespoke Materials For Bespoke Textile Architecture (2016)`](https://www.dropbox.com/scl/fi/7fsoky7xv900ofz977dxc/Tamke-et-al._2016_Bespoke-Materials-For-Bespoke-Textile-Architecture.pdf?rlkey=hlwddhkmsi9jmiocvr00xg35k&st=zfq8f9xj&dl=0)\
-[`Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`]()\
-[`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`]()\
-[`The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`]()\
-[`Hybrid Tower - Designing Soft Structures (2015)`]()\
-[`ShapeOp - A Robust and Extensible Geometric Modelling Paradigm (2015)`]()\
-[`Designing CNC Knit for Hybrid Membrane and Bending Active Structures (2015)`]()\
-[`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`]()\
-[`Structural Analysis and Optimisation of a Computationally Designed Plywood Gridshell (2013)`]()\
-[`A New Material Practice ‐ Integrating Design and Material Behavior (2012)`]()\
-[`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)`]()\
-[`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`]()\
-[`Topological Infrastructure Analysis of the Built Environment (2011)`](https://www.dropbox.com/scl/fi/3wz95ao46jasb27ibeljz/Deleuran-Derix_2013_Topological-Infrastructure-Analysis-of-the-Built-Environment.pdf?rlkey=xngfmee8mb85my1yugfhhymoe&st=otqp7svv&dl=0)
+Publications:
+1. [`Elephetus - Rethinking Patterns (2019)`]()
+1. [`Simulation in Complex Modelling (2017)`](https://www.dropbox.com/scl/fi/63o5p01i5snuehnhmsima/Thomsen-et-al._2017_Simulation-in-Complex-Modelling.pdf?rlkey=bm8s7ri81qnbbgp67bqroz1kq&st=k3bd8rt5&dl=0)
+1. [`Lace Wall - Extending design intuition through Machine Learning (2017)`](https://www.dropbox.com/scl/fi/9f0nb786tsgjwf5mo4lnv/Tamke-et-al._2017_Lace-Wall-Extending-design-intuition-through-Machine-Learning.pdf?rlkey=y96j5hv2a96vxzavno9lt2rur&st=2di3q1d1&dl=0)
+1. [`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`](https://www.dropbox.com/scl/fi/uldnezzb3u0dkvnkvumjj/Quinn-et-al._2016_Calibrated-and-Interactive-Modelling-of-Form-Active-Hybrid-Structures.pdf?rlkey=bcnojc37slxuap7k1e3gisoba&st=qywglah7&dl=0)
+1. [`Bespoke Materials For Bespoke Textile Architecture (2016)`](https://www.dropbox.com/scl/fi/7fsoky7xv900ofz977dxc/Tamke-et-al._2016_Bespoke-Materials-For-Bespoke-Textile-Architecture.pdf?rlkey=hlwddhkmsi9jmiocvr00xg35k&st=zfq8f9xj&dl=0)
+1. [`Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`]()
+1. [`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`]()
+1. [`The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`]()
+1. [`Hybrid Tower - Designing Soft Structures (2015)`]()
+1. [`ShapeOp - A Robust and Extensible Geometric Modelling Paradigm (2015)`]()
+1. [`Designing CNC Knit for Hybrid Membrane and Bending Active Structures (2015)`]()
+1. [`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`]()
+1. [`Structural Analysis and Optimisation of a Computationally Designed Plywood Gridshell (2013)`]()
+1. [`A New Material Practice ‐ Integrating Design and Material Behavior (2012)`]()
+1. [`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)`]()
+1. [`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`]()
+1. [`Topological Infrastructure Analysis of the Built Environment (2011)`](https://www.dropbox.com/scl/fi/3wz95ao46jasb27ibeljz/Deleuran-Derix_2013_Topological-Infrastructure-Analysis-of-the-Built-Environment.pdf?rlkey=xngfmee8mb85my1yugfhhymoe&st=otqp7svv&dl=0)
