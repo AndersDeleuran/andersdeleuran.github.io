@@ -39,17 +39,15 @@ Selected Work:\
 [![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
 <sup>All work encoded using human brain neurons in `GhPython` + `RhinoCommon` `KangarooSolver` `Rhino.Inside.Revit` `K2Engineering` `NetworkX` `MIConvexHull` `SpatialSlur`</sup>
 
-Publications:
-1. Thomsen, M. R., Tamke, M., Nicholas, P., Deleuran, A. H., Ayres, P., Magna, R. La and Gengnagel, C. (2017) _Simulation in Complex Modelling_, in Symposium on Simulation for Architecture and Urban Design (SIMAUD).
-1. Tamke, M., Zwierzycki, M., Deleuran, A. H., Baranovskaya, Y. S., Tinning, I. F. and Thomsen, M. R. (2017) _Lace Wall - Extending design intuition through Machine Learning_, in Proceedings of the Fabricate 2017 conference.
-1. Quinn, G., Deleuran, A. H., Piker, D., Brandt-Olsen, C., Tamke, M., Thomsen, M. R. and Gengnagel, C. (2016) _Calibrated and Interactive Modelling of Form-Active Hybrid Structures_, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, pp. 1–9.
-1. Tamke, M., Baranovskaya, Y. S., Deleuran, A. H., Monteiro, F., Fangueiro, R. M. E. S., Stranghöhner, N., Uhlemann, J., Schmeck, M., Gengnagel, C. and Thomsen, M. R. (2016) ‘Bespoke Materials For Bespoke Textile Architecture’, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium.
-1. Deleuran, A. H. and Quinn, G. (2016) ‘Calibrated Modelling of Form-Active Hybrid Structures - Smart Geometry 2016 Cluster Proposal’, pp. 9–11.
-1. Deleuran, A. H., Pauly, M., Tamke, M., Tinning, I. F. and Thomsen, M. R. (2016) ‘Exploratory Topology Modelling of Form-active Hybrid Structures’, Procedia Engineering, 155, pp. 71–80. doi: 10.1016/j.proeng.2016.08.008.
-1. Deleuran, A. H. (2015) ‘Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks’, in Foged, I. W. (ed.) Bricks Systems. 1st Open. Aalborg: Aalborg University Press, pp. 65–82.
-1. Deleuran, A. H., Schmeck, M., Quinn, G., Gengnagel, C., Tamke, M. and Thomsen, M. R. (2015) ‘The Tower: Modelling , Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures’, in Proceedings of the International Association for Shell and Spatial Structures (IASS).
-1. Thomsen, M. R., Tamke, M., Deleuran, A. H., Tinning, I. F., Evers, H. L., Gengnagel, C. and Schmeck, M. (2015) ‘Hybrid Tower - Designing Soft Structures’, in Proceedings of Design Modelling Symposium 2015: Modelling Behaviour, pp. 1–10. doi: 10.1007/978-3-319-24208-8_8.
-1. Deleuran, A. H. (2015) ‘ShapeOpGHPython’, github.com/AndersDeleuran/ShapeOpGHPython
-1. Deuss, M., Deng, B., Bouaziz, S., Pauly, M., Deleuran, A. H. and Piker, D. (2015) ‘ShapeOp - A Robust and Extensible Geometric Modelling Paradigm’, Proceedings of Design Modelling Symposium 2015: Modelling Behaviour, pp. 505–515.
-1. Tamke, M., Deleuran, A. H., Gengnagel, C., Schmeck, M., Cavalho, R., Fangueiro, R., Monteiro, F., Stranghöhner, N., Uhlemann, J., Homm, T. and Thomsen, M. R. (2015) ‘Designing CNC Knit for Hybrid Membrane and Bending Active Structures’, VI International Conference on Textile Composites and Inflatable Structures, (Structural Membranes 2015).
-1. Deleuran, A. H. (2014) ‘Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker’, in Maas, E., Göttle, A., and Gerkan, M. von (eds) Amphibious Hamburg - Parametric Designs for an Olympic Aquatic Centre: Research Lab. AAC Academy for Architectural Culture.
+Selected Publications:\
+`Simulation in Complex Modelling (2017)`\
+`Lace Wall - Extending design intuition through Machine Learning (2017)`\
+`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`\
+`Bespoke Materials For Bespoke Textile Architecture (2016)`\
+`Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`\
+`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`\
+`The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`\
+`Hybrid Tower - Designing Soft Structures (2015)`\
+`ShapeOp - A Robust and Extensible Geometric Modelling Paradigm (2015)`\
+`Designing CNC Knit for Hybrid Membrane and Bending Active Structures (2015)`\
+`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`
