@@ -52,10 +52,10 @@ Publications:\
 [`Designing CNC Knit for Hybrid Membrane and Bending Active Structures (2015)`]()\
 [`Impact on Tools for Architects: A Conversation with David Rutten and Daniel Piker (2014)`]()
 
-[`Elephetus — Rethinking Patterns (2019)]()\
-[`Structural Analysis and Optimisation of a Computationally Designed Plywood Gridshell (2019)]()\
-[`A New Material Practice ‐ Integrating Design and Material Behavior (2012)]()\
-[`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)]()\
-[`Topological Infrastructure Analysis of the Built Environment (2011)]()\
-[`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)]()
+[`Elephetus - Rethinking Patterns (2019)`]()\
+[`Structural Analysis and Optimisation of a Computationally Designed Plywood Gridshell (2013)`]()\
+[`A New Material Practice ‐ Integrating Design and Material Behavior (2012)`]()\
+[`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)`]()\
+[`Topological Infrastructure Analysis of the Built Environment (2011)`]()\
+[`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`]()
 
