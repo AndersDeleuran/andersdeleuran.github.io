@@ -40,7 +40,7 @@ Selected Work:\
 [![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")](https://royaldanishacademy.com/en/case/lace-wall)
 [![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")](https://royaldanishacademy.com/en/case/hybrid-tower)
 [![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
-[![AAC](images/AmphibiousHamburg_00.png "Amphibious Hamburg(CITA 2015)")](https://www.aac-hamburg.com/publications/publicationscatalogue/270-research-lab-amphibious-hamburg/)
+[![AAC](images/AmphibiousHamburg_00.png "Amphibious Hamburg (CITA 2015)")](https://www.aac-hamburg.com/publications/publicationscatalogue/270-research-lab-amphibious-hamburg/)
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
 <sup>All work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL`</sup>
 
