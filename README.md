@@ -24,6 +24,7 @@ Selected Work:\
 [![ALV](images/ALV_00.png "ALV (BIG 2024-2026)")](https://big.dk/projects/athletics-las-vegas-ballpark-16435)
 [![Huguet](images/Huguet_00.png "Huguet (BIG 2024-2025)")](https://big.dk/projects/3daysofdesign-materialism-21964)
 [![LCS](images/LCS_00.png "LCS (BIG 2022-2026)")](https://big.dk/projects/canninghill-piers-15842)
+[![AncientFuture](images/AncientFuture_00.png "AncientFuture (BIG 2025)")](https://big.dk/projects/ancient-future-bridging-bhutanese-tradition-and-innovation-21490)
 [![EDUES](images/EDUES_00.png "EDUES (BIG 2021)")](https://big.dk/projects/education-esbjerg-12538)
 [![DYMK](images/DYMK_00.png "DYMK (BIG 2021-2022)")](https://big.dk/projects/dymak-hq-16408)
 [![ORØ](images/ORØ_00.png "ORØ (BIG 2019-2020)")](https://www.instagram.com/p/CFb7q07g8TD/)
