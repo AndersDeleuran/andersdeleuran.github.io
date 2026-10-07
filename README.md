@@ -43,7 +43,7 @@ Selected Work:\
 [![AAC](images/AmphibiousHamburg_00.png "Amphibious Hamburg (CITA 2015)")](https://www.aac-hamburg.com/publications/publicationscatalogue/270-research-lab-amphibious-hamburg/)
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
 [![NoRA](images/NoRA_00.png "NoRA (AAU 2006")](https://www.mplusb.eu/project/nora-pavilion/)
-<sup>All work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL`</sup>
+<sup>Work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL`</sup>
 
 Publications:
 1. [`Elephetus - Rethinking Patterns (2019)`](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
