@@ -29,6 +29,7 @@ Selected Work:\
 [![DYMK](images/DYMK_00.png "Dymak HQ (BIG 2021-2022)")](https://big.dk/projects/dymak-hq-16408)
 [![ORØ](images/ORØ_00.png "Orø Tower (BIG 2019-2020)")](https://www.instagram.com/p/CFb7q07g8TD/)
 [![FLM](images/FLM_00.png "Refugee Museum of Denmark (BIG 2019)")](https://big.dk/projects/denmarks-refugee-museum-4593)
+[![NEURO](images/NEURO_00.png "Danish Neuroscience Center (BIG 2020)")](https://big.dk/projects/dansk-neuroforsknings-center-4121)
 [![OPPOH](images/OPPOH_00.png "OPPO R&D HQ Hangzhou (BIG 2020)")](https://big.dk/projects/oppo-rd-hq-hangzhou-3927)
 [![DELA](images/DELA_00.png "DELA (BIG 2019)")](https://www.instagram.com/p/BteJKl9hw6w/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)
 ![UrbanDesign](images/UrbanDesign_00.png "Perimeter, Program, Area-Based Massing Generation (BIG 2021-2022)")
