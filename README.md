@@ -39,6 +39,7 @@ Selected Work:\
 ![SLPK](images/SLPK_00.png "Massing Grid Sun Popper (BIG 2020 - Offline)")
 [![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")](https://royaldanishacademy.com/en/case/lace-wall)
 [![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")](https://royaldanishacademy.com/en/case/hybrid-tower)
+[![SG2016](images/CalibratedModelling_00.png "Calibrated Modelling of Form-Active Hybrid Structures - Smart Geometry (CITA 2016)")](https://vimeo.com/162050529)
 [![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
 [![AAC](images/AmphibiousHamburg_00.png "Amphibious Hamburg (CITA 2015)")](https://www.aac-hamburg.com/publications/publicationscatalogue/270-research-lab-amphibious-hamburg/)
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
