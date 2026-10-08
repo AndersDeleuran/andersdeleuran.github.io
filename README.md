@@ -71,3 +71,9 @@ Publications:
 1. [`A New Material Practice ‐ Integrating Design and Material Behavior (2012)`](https://www.dropbox.com/scl/fi/0b7gzh54yfwhbk30v2xxh/Tamke-et-al._2012_A-New-Material-Practice-Integrating-Design-and-Material-Behavior.pdf?rlkey=j3veoz6k6m58ieofm0q2xvn2k&st=cscg286f&dl=0)
 1. [`Process Through Practice: Synthesizing a novel design and production ecology through Dermoid (2012)`](https://www.dropbox.com/scl/fi/cbb0h9ew0v54f81uac4h5/Burry-et-al._2012_Process-Through-Practice-Synthesizing-a-novel-design-and-production-ecology-through-Dermoid.pdf?rlkey=mxisuybx384z57174m8f96c8d&st=x76l7tu8&dl=0)
 1. [`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`](https://www.dropbox.com/scl/fi/n7lm6254y28srwynsecri/Deleuran-Tamke-Thomsen_2011_Designing-with-Deformation-Sketching-material-and-aggregate-behaviour-of-actively-deforming-structures.pdf?rlkey=c1wsmgcii3nlmi19kum3v5qdy&st=t7dhbyh2&dl=0)
+
+Recommended Readings:
+1. [`Why I Refuse to Use "AI" (Ben UI 2025)`](https://benui.ca/blog/why-i-refuse-ai/)
+1. [`To Gen or Not To Gen: The Ethical Use of Generative AI (Link and Schnell 2026)`](https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/)
+1. [`Why A.I. Isn’t Going to Make Art (Ted Chiang 2024)`](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
+1. [`I Am An AI Hater (Anthony Moser 2025)`](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
