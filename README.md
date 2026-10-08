@@ -43,6 +43,7 @@ Selected Work:\
 [![ShapeOp](images/ShapeOp_00.png "ShapeOp (CITA/LGG 2015)")](https://vimeo.com/125721939?fl=pl&fe=vl)
 [![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
 [![AAC](images/AmphibiousHamburg_00.png "Amphibious Hamburg (CITA 2015)")](https://www.aac-hamburg.com/publications/publicationscatalogue/270-research-lab-amphibious-hamburg/)
+[![DermoidII](images/DermoidII_00.png "Dermoid II (CITA 2011)")](https://royaldanishacademy.com/en/case/dermoid-copenhagen-design-week)
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
 <sup>Work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL`</sup>
 <!-- [![NoRA](images/NoRA_00.png "NoRA (AAU 2006")](https://www.mplusb.eu/project/nora-pavilion/) -->
