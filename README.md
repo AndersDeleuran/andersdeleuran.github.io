@@ -40,6 +40,7 @@ Selected Work:\
 [![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")](https://royaldanishacademy.com/en/case/lace-wall)
 [![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")](https://royaldanishacademy.com/en/case/hybrid-tower)
 [![SG2016](images/CalibratedModelling_00.png "Calibrated Modelling of Form-Active Hybrid Structures - Smart Geometry (CITA 2016)")](https://vimeo.com/162050529)
+[![ShapeOp](images/ShapeOp_00.png "ShapeOp (CITA/LGG 2015)")](https://vimeo.com/125721939?fl=pl&fe=vl)
 [![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
 [![AAC](images/AmphibiousHamburg_00.png "Amphibious Hamburg (CITA 2015)")](https://www.aac-hamburg.com/publications/publicationscatalogue/270-research-lab-amphibious-hamburg/)
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
