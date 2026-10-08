@@ -54,7 +54,7 @@ Selected Work:\
 
 Publications:
 1. [`Elephetus - Rethinking Patterns (2019)`](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
-1. [`Simulation in Complex Modelling (2017)`](https://www.dropbox.com/scl/fi/63o5p01i5snuehnhmsima/Thomsen-et-al._2017_Simulation-in-Complex-Modelling.pdf?rlkey=bm8s7ri81qnbbgp67bqroz1kq&st=k3bd8rt5&dl=0)
+1. [`Simulation in Complex Modelling (2018)`](https://www.dropbox.com/scl/fi/63o5p01i5snuehnhmsima/Thomsen-et-al._2017_Simulation-in-Complex-Modelling.pdf?rlkey=bm8s7ri81qnbbgp67bqroz1kq&st=k3bd8rt5&dl=0)
 1. [`Lace Wall - Extending design intuition through Machine Learning (2017)`](https://www.dropbox.com/scl/fi/9f0nb786tsgjwf5mo4lnv/Tamke-et-al._2017_Lace-Wall-Extending-design-intuition-through-Machine-Learning.pdf?rlkey=y96j5hv2a96vxzavno9lt2rur&st=2di3q1d1&dl=0)
 1. [`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`](https://www.dropbox.com/scl/fi/uldnezzb3u0dkvnkvumjj/Quinn-et-al._2016_Calibrated-and-Interactive-Modelling-of-Form-Active-Hybrid-Structures.pdf?rlkey=bcnojc37slxuap7k1e3gisoba&st=qywglah7&dl=0)
 1. [`Bespoke Materials For Bespoke Textile Architecture (2016)`](https://www.dropbox.com/scl/fi/7fsoky7xv900ofz977dxc/Tamke-et-al._2016_Bespoke-Materials-For-Bespoke-Textile-Architecture.pdf?rlkey=hlwddhkmsi9jmiocvr00xg35k&st=zfq8f9xj&dl=0)
