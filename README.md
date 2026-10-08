@@ -44,7 +44,9 @@ Selected Work:\
 [![AAAarhus](images/AAAarhus_00.png "AA Aarhus (CITA 2015)")](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
 [![AAC](images/AmphibiousHamburg_00.png "Amphibious Hamburg (CITA 2015)")](https://www.aac-hamburg.com/publications/publicationscatalogue/270-research-lab-amphibious-hamburg/)
 [![DermoidIII](images/DermoidIII_00.png "Dermoid III (CITA 2013)")](https://royaldanishacademy.com/en/case/dermoid-australia)
+[![RIBS](images/RIBS_00.png "Resilient Infrastructure and Building Security (Aedas R&D 2011-2013)")](https://www.dropbox.com/scl/fi/v2yuvk1ktu0wyjya0778m/TopologicalInfrastructureAnalysisSlideshow.pdf?rlkey=l8qn1v4gkv52ade4eo9upr38s&st=74y7tbi5&dl=0)
 [![DermoidII](images/DermoidII_00.png "Dermoid II (CITA 2011)")](https://royaldanishacademy.com/en/case/dermoid-copenhagen-design-week)
+![GreenBlock](images/GreenBlock_00.png "Green Block_Astana (Aedas R&D 2011 - Offline)")
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
 <sup>Work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL`</sup>
 <!-- [![NoRA](images/NoRA_00.png "NoRA (AAU 2006")](https://www.mplusb.eu/project/nora-pavilion/) -->
