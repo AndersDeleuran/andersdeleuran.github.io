@@ -73,8 +73,8 @@ Publications:
 1. [`Designing with Deformation ‐ Sketching material and aggregate behaviour of actively deforming structures (2011)`](https://www.dropbox.com/scl/fi/n7lm6254y28srwynsecri/Deleuran-Tamke-Thomsen_2011_Designing-with-Deformation-Sketching-material-and-aggregate-behaviour-of-actively-deforming-structures.pdf?rlkey=c1wsmgcii3nlmi19kum3v5qdy&st=t7dhbyh2&dl=0)
 
 Recommended Readings:
-1. [`Why I Refuse to Use "AI" (Ben UI 2025)`](https://benui.ca/blog/why-i-refuse-ai/)
+1. [`Why I Refuse to Use "AI" (Ben UI 2026)`](https://benui.ca/blog/why-i-refuse-ai/)
 1. [`To Gen or Not To Gen: The Ethical Use of Generative AI (Link and Schnell 2026)`](https://blog.johanneslink.net/2025/11/04/to-gen-or-not-to-gen/)
+2. 1. [`The Reverse Centaur’s Guide to Criticizing AI (Cory Doctorow 2025)`](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 1. [`Why A.I. Isn’t Going to Make Art (Ted Chiang 2024)`](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
-1. [`The Reverse Centaur’s Guide to Criticizing AI (Cory Doctorow 2025)`](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 1. [`I Am An AI Hater (Anthony Moser 2025)`](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
