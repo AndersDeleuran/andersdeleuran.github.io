@@ -53,14 +53,14 @@ Selected Work:\
 <!-- [![NoRA](images/NoRA_00.png "NoRA (AAU 2006")](https://www.mplusb.eu/project/nora-pavilion/) -->
 
 Publications:
-1. [`Elephetus - Rethinking Patterns (2019)`](https://riversidearchitecturalpress.ca/book/cita-complex-modelling/)
+1. [`Elephetus - Rethinking Patterns (2019, p.408)`](https://www.dropbox.com/scl/fi/yns7x326awfjj7cl6jpdr/CITA-Complex-Modelling-BOOK.pdf?rlkey=dslkovlf1lt7d39sjvso0hbku&st=c80iwrkn&dl=0)
 1. [`Simulation in Complex Modelling (2018)`](https://www.dropbox.com/scl/fi/63o5p01i5snuehnhmsima/Thomsen-et-al._2017_Simulation-in-Complex-Modelling.pdf?rlkey=bm8s7ri81qnbbgp67bqroz1kq&st=k3bd8rt5&dl=0)
 1. [`Lace Wall - Extending design intuition through Machine Learning (2017)`](https://www.dropbox.com/scl/fi/9f0nb786tsgjwf5mo4lnv/Tamke-et-al._2017_Lace-Wall-Extending-design-intuition-through-Machine-Learning.pdf?rlkey=y96j5hv2a96vxzavno9lt2rur&st=2di3q1d1&dl=0)
 1. [`Calibrated and Interactive Modelling of Form-Active Hybrid Structures (2016)`](https://www.dropbox.com/scl/fi/uldnezzb3u0dkvnkvumjj/Quinn-et-al._2016_Calibrated-and-Interactive-Modelling-of-Form-Active-Hybrid-Structures.pdf?rlkey=bcnojc37slxuap7k1e3gisoba&st=qywglah7&dl=0)
 1. [`Bespoke Materials For Bespoke Textile Architecture (2016)`](https://www.dropbox.com/scl/fi/7fsoky7xv900ofz977dxc/Tamke-et-al._2016_Bespoke-Materials-For-Bespoke-Textile-Architecture.pdf?rlkey=hlwddhkmsi9jmiocvr00xg35k&st=zfq8f9xj&dl=0)
 1. [`Smart Geometry 2016 - Cluster Proposal Description (2016)`](https://www.dropbox.com/scl/fi/fowxzjg19hp25aoj2yu1c/Deleuran-Quinn_2016_Calibrated-Modelling-of-Form-Active-Hybrid-Structures-Smart-Geometry-2016-Cluster-Proposal.pdf?rlkey=wmhjwfof4whmb2zje2byvst6g&st=uyuysnwz&dl=0)
 1. [`Exploratory Topology Modelling of Form-active Hybrid Structures (2016)`](https://www.dropbox.com/scl/fi/twlgj5brnoeysuo46q85v/Deleuran-et-al._2016_Exploratory-Topology-Modelling-of-Form-active-Hybrid-Structures.pdf?rlkey=b7psfyou2uymngfyiva7oc2o8&st=fxlh42b5&dl=0)
-1. [`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015)`](https://www.dropbox.com/scl/fi/kpbqytgxagks0ypft1avy/Foged_2017_Bricks-Systems.pdf?rlkey=k9glj70xv2q2sr07a1401956c&st=tbu9lfui&dl=0)
+1. [`Synthesizing a Nonlinear Modelling Pipeline for the Design of Masonry Arch Networks (2015, p.65)`](https://www.dropbox.com/scl/fi/kpbqytgxagks0ypft1avy/Foged_2017_Bricks-Systems.pdf?rlkey=k9glj70xv2q2sr07a1401956c&st=tbu9lfui&dl=0)
 1. [`The Tower: Modelling, Analysis and Construction of Bending Active Tensile Membrane Hybrid Structures (2015)`](https://www.dropbox.com/scl/fi/u3pnavvl4vpvuv93zoqwl/Deleuran-et-al._2015_The-Tower-Modelling-Analysis-and-Construction-of-Bending-Active-Tensile-Membrane-Hybrid-Structures.pdf?rlkey=yrn3xi0jpxctxrdqqpw82vqez&st=haf0kbyc&dl=0)
 1. [`Hybrid Tower - Designing Soft Structures (2015)`](https://www.dropbox.com/scl/fi/3p4vg5f3tg44cweb034bo/Thomsen-et-al._2015_Hybrid-Tower-Designing-Soft-Structures.pdf?rlkey=3hiij8ti4ubsw265xrl67rkhm&st=gje4fx87&dl=0)
 1. [`ShapeOp - A Robust and Extensible Geometric Modelling Paradigm (2015)`](https://www.dropbox.com/scl/fi/k6f1rf0wbjudnu8yywygm/Deuss-et-al._2015_ShapeOp-A-Robust-and-Extensible-Geometric-Modelling-Paradigm.pdf?rlkey=zsnqvtfwxxonyd4zbtupn2ing&st=j9l0zm0e&dl=0)
