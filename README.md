@@ -49,7 +49,7 @@ Selected Work:\
 [![DermoidII](images/DermoidII_00.png "Dermoid II (CITA 2011)")](https://royaldanishacademy.com/en/case/dermoid-copenhagen-design-week)
 ![GreenBlock](images/GreenBlock_00.png "Green Block_Astana (Aedas R&D 2011 - Offline)")
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
-<sup>Work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL`</sup>
+<sup>Work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL` `Nucleus`</sup>
 <!-- [![NoRA](images/NoRA_00.png "NoRA (AAU 2006")](https://www.mplusb.eu/project/nora-pavilion/) -->
 
 Publications:
