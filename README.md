@@ -39,7 +39,7 @@ Selected Work:\
 ![UrbanDesign](images/UrbanDesign_00.png "Perimeter, Program, Area-Based Massing Generation (BIG 2021-2022 - Offline)")
 ![DRWN](images/DRWN_00.png "Super Ellipse Facade/Roof Shell (BIG 2019 - Offline)")
 [![KEMB](images/KEMB_01.png "Drainage Flow Density Visualisation (BIG 2018)")](https://www.instagram.com/p/BkN7oc4lA9y/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)
-[![SLPK](images/SLPK_00.png "Massing Grid Sun Popper (BIG 2020 - Offline)")](https://www.instagram.com/p/CCsou-8p80b/?utm_source=ig_web_copy_link&obrf=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)
+[![SLPK](images/SLPK_00.png "Massing Grid Sun Popper (BIG 2020)")](https://www.instagram.com/p/CCsou-8p80b/?utm_source=ig_web_copy_link&obrf=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)
 [![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")](https://royaldanishacademy.com/en/case/lace-wall)
 [![SG2016](images/CalibratedModelling_00.png "Calibrated Modelling of Form-Active Hybrid Structures - Smart Geometry (CITA 2016)")](https://vimeo.com/162050529)
 [![HybridTowerII](images/HybridTowerII_00.png "Hybrid Tower II (CITA 2016)")](https://royaldanishacademy.com/en/case/hybrid-tower)
