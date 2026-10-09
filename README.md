@@ -34,6 +34,7 @@ Selected Work:\
 [![FORM](images/FORM_00.png "FORMGIVING (BIG 2019)")](https://big.dk/projects/formgiving-exhibition-3740)
 [![DELA](images/DELA_00.png "Retractable Origami Roof (BIG 2018)")](https://www.instagram.com/p/BteJKl9hw6w/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)
 [![Storm](images/STORM_00.png "Dynamic Agent/Graph-based Traffic/Parkering Model (BIG 2018)")](https://www.instagram.com/p/BlIg3K8HEcW/?rpxt=MzRlODBiNWFlZA%3D%3D&srtk=MzRlODBiNWFlZA%3D%3D)
+[![Noise](images/NoiseAnalysisPipeline_00.png "Noise Analysis Pipeline ISO 9613-2 (BIG 2021)")](https://www.instagram.com/p/CPI5WKZs4D5/?utm_source=ig_web_copy_link&rpxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)
 ![UrbanDesign](images/UrbanDesign_00.png "Perimeter, Program, Area-Based Massing Generation (BIG 2021-2022 - Offline)")
 ![10C3](images/10C3_00.png "Solar Sawtooth Facade (BIG 2022 - Offline)")
 ![DRWN](images/DRWN_00.png "Super Ellipse Facade/Roof Shell (BIG 2019 - Offline)")
