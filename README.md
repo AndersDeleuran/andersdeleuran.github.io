@@ -37,6 +37,7 @@ Selected Work:\
 [![Noise](images/NoiseAnalysisPipeline_00.png "Noise Analysis Pipeline ISO 9613-2 (BIG 2021)")](https://www.instagram.com/p/CPI5WKZs4D5/?utm_source=ig_web_copy_link&rpxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)
 ![10C3](images/10C3_00.png "Solar Sawtooth Facade (BIG 2022 - Offline)")
 ![UrbanDesign](images/UrbanDesign_00.png "Perimeter, Program, Area-Based Massing Generation (BIG 2021-2022 - Offline)")
+[![KEMB](images/KEMB_00.png "Drainage Flow Density Visualisation (BIG 2018)")](https://www.instagram.com/p/BkN7oc4lA9y/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)
 ![DRWN](images/DRWN_00.png "Super Ellipse Facade/Roof Shell (BIG 2019 - Offline)")
 ![SLPK](images/SLPK_00.png "Massing Grid Sun Popper (BIG 2020 - Offline)")
 [![LaceWall](images/LaceWall_00.png "Lace Wall (CITA 2016)")](https://royaldanishacademy.com/en/case/lace-wall)
@@ -53,7 +54,6 @@ Selected Work:\
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
 <sup>Work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL` `Nucleus`</sup>
 
-<!-- [![KAK](images/KAK_02.png "Drainage Flow Density Visualisation (BIG 2018)")](https://www.instagram.com/p/BkN7oc4lA9y/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==) -->
 <!-- [![NoRA](images/NoRA_00.png "NoRA (AAU 2006")](https://www.mplusb.eu/project/nora-pavilion/) -->
 
 Publications:
