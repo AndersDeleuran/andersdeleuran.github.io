@@ -78,3 +78,4 @@ Recommended Readings:
 1. [`The Reverse Centaur’s Guide to Criticizing AI (Cory Doctorow 2025)`](https://pluralistic.net/2025/12/05/pop-that-bubble/#u-washington)
 1. [`Why A.I. Isn’t Going to Make Art (Ted Chiang 2024)`](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
 1. [`I Am An AI Hater (Anthony Moser 2025)`](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
+1. [`Choose Boring Technology (Dan McKinley) 2015`](https://mcfunley.com/choose-boring-technology)
