@@ -32,7 +32,7 @@ Selected Work:\
 [![NEURO](images/NEURO_00.png "Danish Neuroscience Center (BIG 2020)")](https://big.dk/projects/dansk-neuroforsknings-center-4121)
 [![OPPOH](images/OPPOH_00.png "OPPO R&D HQ Hangzhou (BIG 2020)")](https://big.dk/projects/oppo-rd-hq-hangzhou-3927)
 [![FORM](images/FORM_00.png "FORMGIVING (BIG 2019)")](https://big.dk/projects/formgiving-exhibition-3740)
-[![DELA](images/DELA_00.png "Retractable Origami Roof (BIG 2019)")](https://www.instagram.com/p/BteJKl9hw6w/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)
+[![DELA](images/DELA_00.png "Retractable Origami Roof (BIG 2018)")](https://www.instagram.com/p/BteJKl9hw6w/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==)
 ![UrbanDesign](images/UrbanDesign_00.png "Perimeter, Program, Area-Based Massing Generation (BIG 2021-2022 - Offline)")
 ![10C3](images/10C3_00.png "Solar Sawtooth Facade (BIG 2022 - Offline)")
 ![DRWN](images/DRWN_00.png "Super Ellipse Facade/Roof Shell (BIG 2019 - Offline)")
