@@ -52,6 +52,8 @@ Selected Work:\
 ![GreenBlock](images/GreenBlock_00.png "Green Block_Astana (Aedas R&D 2011 - Offline)")
 [![Dermoid](images/Dermoid_00.png "Dermoid (CITA 2010)")](https://royaldanishacademy.com/en/case/dermoid)
 <sup>Work encoded using human brain neurons in `GhPython` `RhinoCommon` `Kangaroo2` `Rhino.Inside.Revit` `K2Engineering` `ShapeOp` `NetworkX` `MIConvexHull` `SpatialSlur` `MEL` `Nucleus`</sup>
+
+<!-- [![KAK](images/KAK_02.png "Drainage Flow Density Visualisation (BIG 2018)")](https://www.instagram.com/p/BkN7oc4lA9y/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==) -->
 <!-- [![NoRA](images/NoRA_00.png "NoRA (AAU 2006")](https://www.mplusb.eu/project/nora-pavilion/) -->
 
 Publications:
